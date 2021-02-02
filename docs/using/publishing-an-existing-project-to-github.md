@@ -1,5 +1,7 @@
 # Publishing an existing project to GitHub
 
+Now obsolete in VS Feb 2021
+
 1. Open a solution in Visual Studio.
 2. If solution is not already initialized as a Git repository, select **Add to Source Control** from the **File** menu.
 ![Location of Add to Source Control option in the file menu](images/add-to-source-control.png)
